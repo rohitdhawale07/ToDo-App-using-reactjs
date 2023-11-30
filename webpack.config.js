@@ -1,0 +1,4 @@
+resolve: {
+    fallback: { "stream": false }
+  }
+  
